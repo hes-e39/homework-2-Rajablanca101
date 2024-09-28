@@ -1,13 +1,12 @@
 import {
   addTwoNumbers,
-  Admin,
   isAdmin,
   isUser,
-  Person,
   sumArray,
   userGreetingMessage,
   type User,
 } from "./homework";
+import type { Admin, Person } from "./homework";
 
 describe("Homework 2", () => {
   test("addTwoNumbers - should add two numbers", () => {

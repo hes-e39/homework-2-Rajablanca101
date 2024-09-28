@@ -14,4 +14,3 @@ type Animal = {
   name: string;
 };
 
-//////// You can copy and past some of the examples in here
